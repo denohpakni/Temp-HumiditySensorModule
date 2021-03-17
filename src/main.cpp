@@ -9,7 +9,7 @@ DHT_nonblocking the_thing_dht_sensor( DHT_SENSOR_PIN, my_DHT_SENSOR_TYPE );
 
 void setup( )
 {
-  Serial.begin( 9600);
+  Serial.begin(9600);
 }
 void loop( )
 {
